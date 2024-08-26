@@ -150,3 +150,14 @@ body {
 #btn-call-to {
     border: 2px solid #fff;
 }
+
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    background-color: #1F2937;
+    font-size: 12px;
+    color: white;
+}
